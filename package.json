@@ -1,6 +1,6 @@
 {
-  "name": "passport-wechat-zb",
-  "version": "2.0.2",
+  "name": "passport-wechat-sails-auth",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "description": "passport strategy for authenticating with wechat",
   "homepage": "http://www.liangyali.com",
