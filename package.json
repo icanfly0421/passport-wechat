@@ -1,5 +1,5 @@
 {
-  "name": "passport-wechat",
+  "name": "passport-wechat-zb",
   "version": "2.0.2",
   "main": "lib/index.js",
   "description": "passport strategy for authenticating with wechat",
